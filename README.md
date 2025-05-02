@@ -32,9 +32,7 @@ Servidor local (VS Code Live Server, XAMPP, etc.)
 
 Passos:
 
-bash
-git clone https://github.com/seu-usuario/almoxarifado-frontend.git
-cd almoxarifado-frontend
+
 # Abra index.html no navegador ou usando um servidor local
 🧪 Testes e Contribuições
 Reportar bugs: Abra uma issue
